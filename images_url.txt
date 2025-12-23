@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/carloslzr/image_transformations/refs/heads/main/images/img_distorted.jpg
+https://raw.githubusercontent.com/carloslzr/image_transformations/refs/heads/main/images/img_face_cast.jpg
+https://raw.githubusercontent.com/carloslzr/image_transformations/refs/heads/main/images/img_fallback_error.jpg
+https://raw.githubusercontent.com/carloslzr/image_transformations/refs/heads/main/images/img_fallback_placeholder.jpg
+https://raw.githubusercontent.com/carloslzr/image_transformations/refs/heads/main/images/img_no_face.jpg
+https://raw.githubusercontent.com/carloslzr/image_transformations/refs/heads/main/images/img_no_text.jpg
+https://raw.githubusercontent.com/carloslzr/image_transformations/refs/heads/main/images/img_quality_high.jpg
+https://raw.githubusercontent.com/carloslzr/image_transformations/refs/heads/main/images/img_quality_low.jpg
+https://raw.githubusercontent.com/carloslzr/image_transformations/refs/heads/main/images/img_text_japanese.jpg
